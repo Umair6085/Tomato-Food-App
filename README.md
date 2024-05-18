@@ -1,2 +1,2 @@
 # Tomato-Food-App
-A Food App made in React JS
+A Complete Food App made in React Vite.
